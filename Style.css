@@ -1,0 +1,17 @@
+h1, h3 {
+    color: rgb(39, 39, 119);
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+span {
+    color: cornflowerblue;
+    font-weight: 600;
+    /* font-size: larger; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+div{
+    font-family: monospace;
+}
